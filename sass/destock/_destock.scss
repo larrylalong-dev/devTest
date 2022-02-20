@@ -1,0 +1,51 @@
+@media only screen and (max-width: 992px) {
+
+    .choice_flex {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .choice_bloc_restaurant:hover .animation1 .detail p {
+      width: auto;
+    }
+
+
+}
+
+@media only screen and (min-width: 993px) {
+
+    .choice_flex {
+      display: flex;
+      flex-wrap: wrap;
+      margin-bottom: 30px;
+    }
+
+    .choice_restaurant_flex {
+      flex-wrap: wrap;
+      display: flex;
+    }
+
+    .choice_bloc_restaurant:hover .animation1 .detail p {
+      width: auto;
+    }
+
+    .choice_restaurant {
+        width: 45%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+
+    .lettre {
+        color: #484848;
+        font-size: 70px;
+        letter-spacing: 5px;
+        margin-bottom: 700px;
+        animation: flash 1.2s linear infinite;
+    }
+
+    .loader_spinner {
+        font-size: 40px;
+    }
+  
+}

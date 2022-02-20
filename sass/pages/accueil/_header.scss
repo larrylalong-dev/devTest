@@ -1,0 +1,31 @@
+header {
+    text-align: center;
+  }
+  
+  .header_title {
+          margin: 15px 0 7px;
+  
+      img {
+          width: 180px;
+          height: 25px;
+          object-fit: contain;
+      }
+      &_center {
+          width: 100%;
+      }
+  }
+      
+  .header_localisation {
+      background-color: #dddcdd;
+      padding: 14px;
+      
+      span {
+          font-weight: 500;
+          margin-left: 10px;
+          
+          input {
+              background: none;
+              border: none;
+          }
+      }
+  }

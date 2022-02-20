@@ -1,0 +1,36 @@
+footer {
+    background: #3c3c3c;
+  }
+  
+  .footer_bloc {
+    padding: 25px 0 35px;
+  
+      h1 {
+          font-size: 23px;
+          padding-bottom: 15px;
+          color: #fff;
+  
+          img {
+              width: 133px;
+          }
+      }
+  
+      i {
+          padding-right: 15px;
+          color: #fff;
+      }
+  }
+  
+  .footer_item a {
+    display: flex;
+    padding-bottom: 8px;
+    color: #fff;
+  }
+  
+  .fa-hands-helping {
+    font-size: 13px;
+  } 
+  
+  .footer_partenaire {
+    margin-left: -4px;
+  }

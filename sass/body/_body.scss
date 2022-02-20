@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+.color:hover {
+  background: blue;
+}
+  
+a {
+  text-decoration: none;
+  color: black;
+}
+  
+.shrikhand {
+  font-family: "Shrikhand", cursive;
+}
+  
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+  
+.display_flex {
+  display: flex;
+  justify-content: space-between;
+}
+  
+.custom {
+  position: relative;
+}

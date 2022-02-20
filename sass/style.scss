@@ -1,0 +1,31 @@
+/***********BODY****************/
+
+@import "./body/body";
+
+/********************ACCUEIL**************/
+
+@import "./pages/accueil/header";
+@import "./pages/accueil/main";
+@import "./pages/accueil/footer";
+
+/*margre*/
+
+@import "./marge/marge";
+
+
+/***************RESTAURANT********************/
+
+@import "./pages/restaurant/restaurant";
+
+
+@import "./animations/animations";
+
+
+/***************LOADER******************/
+
+@import "./loader/loader";
+
+
+/*************DESTOCK*************/
+
+@import "./destock/destock";
